@@ -1,0 +1,6 @@
+{
+	"name": "game-with-type",
+	"version": "1.0.0",
+	"author": "andjsrk",
+	"types": "src/index.d.ts"
+}

@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"exactOptionalPropertyTypes": true,
+		"lib": [ "ES2021" ],
+		"moduleResolution": "Node",
+		"noEmit": true,
+		"strict": true,
+		"noUnusedLocals": true
+	},
+	"include": [ "src" ]
+}
